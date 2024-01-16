@@ -1,1 +1,1 @@
-# aboutme
+Passionate Flutter Developer | 2 years of experience | Specialized in FinTech, E-Commerce, IoT, and HealthCare apps | Crafting seamless and user-friendly solutions | Excited about innovation and open to collaborations. 🚀 #Flutter #MobileDev
