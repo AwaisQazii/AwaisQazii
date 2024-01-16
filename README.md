@@ -1,6 +1,6 @@
 Hi There,
 
-Passionate Flutter Developer | 2 years of experience | Specialized in FinTech, E-Commerce, IoT, and HealthCare apps | Crafting seamless and user-friendly solutions | Excited about innovation and open to collaborations. 🚀 #Flutter #MobileDev #FinTech #SoftwareEngineer
+I'm Awais A Passionate Flutter Developer | 2 years of experience | Specialized in FinTech, E-Commerce, IoT, and HealthCare apps | Crafting seamless and user-friendly solutions | Excited about innovation and open to collaborations. 🚀 #Flutter #MobileDev #FinTech #SoftwareEngineer
 
 Feel free to reach out..
 
