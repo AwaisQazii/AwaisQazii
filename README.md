@@ -4,6 +4,8 @@ I'm Awais A Passionate Flutter Developer | 2 years of experience | Specialized i
 
 Feel free to reach out..
 
+Portfolio : <a href="https://awaisqazii.github.io/"> Awais Qazi </a> 
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/awais-qazi-76469723a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
