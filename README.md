@@ -1,4 +1,10 @@
-Hi There,
+<div align="center"><h1>
+  Hi There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1></div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/YAWqK1TROp77LgS6tH/giphy.gif" height="250px"  />
+</div>
 
 I'm Awais A Passionate Flutter Developer | 2 years of experience | Specialized in FinTech, E-Commerce, IoT, and HealthCare apps | Crafting seamless and user-friendly solutions | Excited about innovation and open to collaborations. 🚀 #Flutter #MobileDev #FinTech #SoftwareEngineer
 
