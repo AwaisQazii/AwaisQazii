@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/YAWqK1TROp77LgS6tH/giphy.gif" height="250px"  />
 </div>
 
-I'm Awais A Passionate Flutter Developer | 2 years of experience | Specialized in FinTech, E-Commerce, IoT, and HealthCare apps | Crafting seamless and user-friendly solutions | Excited about innovation and open to collaborations. 🚀 #Flutter #MobileDev #FinTech #SoftwareEngineer
+I'm Awais A Passionate Flutter Developer | 3 years of experience | Specialized in FinTech, E-Commerce, IoT, and HealthCare apps | Crafting seamless and user-friendly solutions | Excited about innovation and open to collaborations. 🚀 #Flutter #MobileDev #FinTech #SoftwareEngineer
 
 Feel free to reach out..
 
